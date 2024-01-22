@@ -59,7 +59,7 @@ Given a summoner name (you can find summoner names on [https://mobalytics.gg/lol
 
 **Use React for the frontend and the language of your choice for the backend.**
 
-**If you have any questions, feel free to reach out to **[mbeddiaf@blitz.gg](mailto:mbeddiaf@blitz.gg)
+**If you have any questions, feel free to reach out to [mbeddiaf@blitz.gg](mailto:mbeddiaf@blitz.gg)**
 
 * Backend:
     * Securely integrate with the Riot Games API to access summoner and match data.
